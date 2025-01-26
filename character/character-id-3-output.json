@@ -1,12 +1,20 @@
 {
   "data": {
-    "character": {
-      "id": "3",
-      "name": "Summer Smith",
-      "status": "Alive",
-      "species": "Human",
-      "type": "",
-      "gender": "Female"
+    "characters": {
+      "results": [
+        {
+          "id": "41",
+          "name": "Birdperson",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg"
+        },
+        {
+          "id": "42",
+          "name": "Beth Smith",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/42.jpeg"
+        }
+      ]
     }
   }
 }
